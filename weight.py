@@ -10,4 +10,4 @@ elif units=="K":
     converted=weight/0.453592
     print(f"Your weight is {converted} lbs")
 else:
-    print("Unit not correct")
+    print("Unit not correct, type 'L' for libre and 'K' for kilos")
